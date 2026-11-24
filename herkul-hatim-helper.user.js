@@ -5,7 +5,7 @@
 // @supportURL   https://github.com/AbdAkg4/Herkul-Hatim-Helper/issues
 // @updateURL    https://raw.githubusercontent.com/AbdAkg4/Herkul-Hatim-Helper/main/herkul-hatim-helper.user.js
 // @downloadURL  https://raw.githubusercontent.com/AbdAkg4/Herkul-Hatim-Helper/main/herkul-hatim-helper.user.js
-// @version      1.5.0
+// @version      1.5.1
 // @description  Sequentially test or claim Quran pages you have already read. Simulation is always the default.
 // @match        https://herkul.app/*
 // @match        https://herkul.org/*
