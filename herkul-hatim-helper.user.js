@@ -9,7 +9,6 @@
 // @description  Sequentially test or claim Quran pages you have already read. Simulation is always the default.
 // @match        https://herkul.app/*
 // @match        https://herkul.org/*
-// @match        https://www.herkul.org/*
 // @run-at       document-idle
 // @grant        none
 // @noframes
