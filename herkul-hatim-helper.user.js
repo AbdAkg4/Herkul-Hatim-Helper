@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Herkul — Already-read page claimer
+// @name         Herkul — Hatim Heper
 // @namespace    local.herkul.already-read
 // @homepageURL  https://github.com/AbdAkg4/Herkul-Hatim-Helper
 // @supportURL   https://github.com/AbdAkg4/Herkul-Hatim-Helper/issues
